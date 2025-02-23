@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Company Name</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #333;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        section {
+            padding: 20px;
+            background: white;
+            margin-bottom: 20px;
+            border-radius: 5px;
+        }
+        footer {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Your Company Name</h1>
+        <p>Cybersecurity | Ethical Hacking | AI Security</p>
+    </header>
+    
+    <div class="container">
+        <section>
+            <h2>About Us</h2>
+            <p>We provide cutting-edge cybersecurity and ethical hacking training, focusing on AI-driven security solutions. Our workshops and programs help students and professionals stay ahead in the cybersecurity field.</p>
+        </section>
+        
+        <section>
+            <h2>Our Services</h2>
+            <ul>
+                <li>Cybersecurity Workshops</li>
+                <li>Ethical Hacking Training</li>
+                <li>AI in Cybersecurity</li>
+                <li>Corporate Security Consulting</li>
+            </ul>
+        </section>
+        
+        <section>
+            <h2>Contact Us</h2>
+            <p>Email: your-email@example.com</p>
+            <p>Phone: +91 XXXXXXXXXX</p>
+        </section>
+    </div>
+    
+    <footer>
+        <p>&copy; 2025 Your Company Name. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
